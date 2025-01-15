@@ -1,5 +1,5 @@
 title: "Mark Wilkening - CSPB 3112"
 description: "Welcome to my site powered by Jekyll!"
-theme: no-style-please
+theme: jekyll-theme-architect
 baseurl: "" 
 url: "https://markwilkening21.github.io"
