@@ -8,6 +8,12 @@ title: Welcome
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 3 Update - January 27 - February 2, 2025
+
+This week I wrote my project proposal and officially decided to start working on the Linux Foundation System Administration course. I signed up and paid for the course, and started watching and reading the introductory material. I learned about the basic differences between Linux distributions and setup a virtual machine in case there are specific differences between my personal machine (running pop_os) and the instructions in Ubuntu, centOS, or openSUSE. I chose to setup a VM with Ubuntu because I already have experience working with it and know how to set it up. I read/watched the Intro content which I was already familiar with and setup my PATH in .bashrc to search **sbin** when doing a normal system search to find system utilities. I completed the chapter on the Linux Filesystem Tree Layout, which details how files are organized on a Linux system. It then breaks down what is contained in each of the ~18 system directories, from /bin to /run. 
+
+Next week I will work my way through chapters on the User Environment and User Account Management. Splitting the time up in management chunks is very helpful for me rather than knocking out 3 hours on a Saturday. As long as my schedule allows, I will continue to use this method.
+
 ## Project Proposal - January 28, 2026
 
 I wish to build a base of skills in Linux System Administration. Using the Linux Foundation training tools, I plan to engage in weekly learning sessions that will ultimately lead to a Linux Foundation Certified System Administrator (LFCS) cerftification after taking the exam. 
