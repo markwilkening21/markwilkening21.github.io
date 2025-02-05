@@ -17,7 +17,7 @@ In the LFS207 Module, I completed chapters on User Environment (Ch 3) and User A
 
 This week I will move on to Chapters 5 (Group Management) and 6 (File Permissions) in LFS207, and I'll start reading Chapter 3 in the Unix/Linux Book.
 
-I'm not blocked, and I'm getting into a routine of knocking out a little at a time in 30-60 minutes increments.
+I'm not blocked, and I'm getting into a routine of knocking out a little at a time in 30-60 minutes increments. TEST TEST 
 
 
 ## Week 3 Update - January 27 - February 2, 2025
