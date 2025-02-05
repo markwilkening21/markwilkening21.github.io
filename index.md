@@ -13,7 +13,7 @@ This week I started reading _The Unix and Linux System Administration Handbook_.
 
 ![](images/SysAdminBook.jpeg)
 
-Anyway, I read the first 2 chapters which included an introductory chapter on the roles of a system adminitrator, and a chapter on Booting and System Management Daemons. 
+Anyway, I read the first 2 chapters which included an introductory chapter on the roles of a system administrator, and a chapter on Booting and System Management Daemons. 
 
 In the LFS207 Module, I completed chapters on User Environment (Ch 3) and User Account Management (Ch 4).
 
