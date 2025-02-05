@@ -7,6 +7,18 @@ title: Welcome
     <h1 style="font-size: 3rem; font-weight: 300;">CSPB 3112 - Mark Wilkening</h1>
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
+## Week 4 Update - February 3 - February 9, 2025
+
+This week I started reading _The Unix and Linux System Administration Handbook_. I had heard of this book spoken of very highly, but didn't realize the very strong UCB connection until I started it. The opening has a tribute to [Evi Nemeth](https://en.wikipedia.org/wiki/Evi_Nemeth), who was a Computer Science professor at UCB.
+
+Anyway, I read the first 2 chapters which included an introductory chapter on the roles of a system adminitrator, and a chapter on Booting and System Management Daemons. 
+
+In the LFS207 Module, I completed chapters on User Environment (Ch 3) and User Account Management (Ch 4).
+
+This week I will move on to Chapters 5 (Group Management) and 6 (File Permissions) in LFS207, and I'll start reading Chapter 3 in the Unix/Linux Book.
+
+I'm not blocked, and I'm getting into a routine of knocking out a little at a time in 30-60 minutes increments.
+
 
 ## Week 3 Update - January 27 - February 2, 2025
 
