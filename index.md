@@ -25,7 +25,7 @@ I read Chapter 3, Access Control and Rootly Powers, in the UNIX/Linux book I men
 
 Next I will be working on Modules about Package Management Systems, DPKG, and APT.
 
-I'm moving at a good pace, I really enjoy the format of the modules and I love messing around in Ubuntu using a VM.
+I'm moving at a good pace, I really enjoy the format of the modules and I love messing around in Ubuntu using a VM. No blockers.
 
 
 ## Week 4 Update - February 3 - February 9, 2025
