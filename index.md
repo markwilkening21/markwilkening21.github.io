@@ -7,6 +7,23 @@ title: Welcome
     <h1 style="font-size: 3rem; font-weight: 300;">CSPB 3112 - Mark Wilkening</h1>
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
+
+## Week 5 Update - February 10 - February 16, 2025
+
+This week I completed sections/modules on Group Management, File Permissions, and Ownership in a Linux system. I learned to 
+* add new users
+* modify their passwords 
+* add them and remove them from groups 
+* login to their accounts remotely
+* set ownership of files or directories to groups
+* modify file permissions using chmod
+* understand octal shorthand of permissions
+* use chown and chgrp to change file ownership or group ownership
+* use umask (user file creation mask) to set default file and directory permissions when new files are created
+
+I read Chapter 3, Access Control and Rootly Powers, in the UNIX/Linux book I mentioned last week. 
+
+
 ## Week 4 Update - February 3 - February 9, 2025
 
 This week I started reading _The Unix and Linux System Administration Handbook_. I had heard of this book spoken of very highly, but didn't realize the very strong UCB connection until I started it. The opening has a tribute to [Evi Nemeth](https://en.wikipedia.org/wiki/Evi_Nemeth), who was a Computer Science professor at UCB.
