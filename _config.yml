@@ -4,3 +4,8 @@ description: "Welcome to Mark's site powered by Jekyll!"
 #theme: no-style-please
 baseurl: "" 
 url: "https://markwilkening21.github.io"
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/

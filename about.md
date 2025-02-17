@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: About Me
+permalink: /about/
 ---
 
 <div style="text-align: left; margin-top: 100px;">
