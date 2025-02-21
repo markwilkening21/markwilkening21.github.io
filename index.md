@@ -34,6 +34,8 @@ Show information about an installed package:
 
 This was a very functional/useful week of learning. No blockers.
 
+I read Chapter 4 - Process Control and will read Chapter 5 next. Next week I will also complete modules on Red Hat Package Management, DNF and Yum, Zipper, and possibly get started on Git fundamentals.
+
 ## Week 5 Update - February 10 - February 16, 2025
 
 This week I completed sections/modules on Group Management, File Permissions, and Ownership in a Linux system. I learned to 
