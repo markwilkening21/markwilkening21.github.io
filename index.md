@@ -32,6 +32,8 @@ I realized some of the Learning Exercises required Red Hat or Fedora, not openSU
 - Each module on the Linux Foundation site includes Lab exercises at the end of each chapter. Sometimes the questions were not covered at all in the module, so
 I end up having to Google the answer. This is confusing -- is this intentional? (I'm wondering)
 
+Next week I'll move on to topics on Git Fundamentals, Processes, and Process Monitoring. I'll finish Chapter 5 in ULSAH and move onto Chapter 6.
+
 ## Week 6 Update :: February 17 - February 23, 2025
 
 I've been peripherally familiar with Package Management Systems DPKG and APT for a few years, as I would come across the term when I was Googling for help figuring
