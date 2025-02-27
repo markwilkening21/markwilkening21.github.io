@@ -12,7 +12,7 @@ title: Home
 
 ## Week 7 Update :: February 24 - February 31, 2025
 
-This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which iare used on Red Hat, Fedora, and openSUSE systems. 
+This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which are used on Red Hat, Fedora, and openSUSE systems. 
 
 I found a very helpful Github page of notes from the ULSAH book I've been reading, linked [here](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes/tree/main).
 This inspired me to start my own page of notes while going thru the modules from the Linux Foundation.
