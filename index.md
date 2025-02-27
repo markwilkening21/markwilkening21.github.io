@@ -9,7 +9,30 @@ title: Home
     <h1 style="font-size: 3rem; font-weight: 300;">CSPB 3112 - Mark Wilkening</h1>
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
-## Week 6 Update - February 17 - February 23, 2025
+
+## Week 7 Update :: February 24 - February 31, 2025
+
+This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which iare used on Red Hat, Fedora, and openSUSE systems. 
+
+I found a very helpful Github page of notes from the ULSAH book I've been reading, linked [here](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes/tree/main).
+This inspired me to start my own page of notes while going thru the modules from the Linux Foundation.
+
+[My LFS 207 Notes](https://github.com/markwilkening21/lfs207_notes)
+
+This is refamiliarzing me to Markdown. I installed a Markdown viewer in Brave so I can avoid having to constantly push changes to check
+the formatting, and I've found this method of creating notes helps me retain the information better.
+
+- A few small blockers this week. The material in the book is getting pretty challenging and I've slowed down in pace. I'm not finished with Chapter 5 
+but will continue powering through. 
+
+- I've been using Ubuntu to test out what I've been learning, and ended up wasting a lot of time troubleshooting trying to get openSUSE
+running on VirtualBox. It was not as seamless as Ubuntu, and it took a few tries to get it working. Finally after getting it installed,
+I realized some of the Learning Exercises required Red Hat or Fedora, not openSUSE, so I couldn't do the dnf based problem sets. 
+
+- Each module on the Linux Foundation site includes Lab exercises at the end of each chapter. Sometimes the questions were not covered at all in the module, so
+I end up having to Google the answer. This is confusing -- is this intentional? (I'm wondering)
+
+## Week 6 Update :: February 17 - February 23, 2025
 
 I've been peripherally familiar with Package Management Systems DPKG and APT for a few years, as I would come across the term when I was Googling for help figuring
 out why a piece of software on my Linux desktop computer wasn't working properly. I have been typing "apt install" or "sudo apt-get something something" over
@@ -36,7 +59,7 @@ This was a very functional/useful week of learning. No blockers.
 
 I read Chapter 4 - Process Control and will read Chapter 5 next. Next week I will also complete modules on Red Hat Package Management, DNF and Yum, Zipper, and possibly get started on Git fundamentals.
 
-## Week 5 Update - February 10 - February 16, 2025
+## Week 5 Update :: February 10 - February 16, 2025
 
 This week I completed sections/modules on Group Management, File Permissions, and Ownership in a Linux system. I learned to 
 * add new users
@@ -56,7 +79,7 @@ Next I will be working on Modules about Package Management Systems, DPKG, and AP
 I'm moving at a good pace, I really enjoy the format of the modules and I love messing around in Ubuntu using a VM. No blockers.
 
 
-## Week 4 Update - February 3 - February 9, 2025
+## Week 4 Update :: February 3 - February 9, 2025
 
 This week I started reading _The Unix and Linux System Administration Handbook_. I had heard of this book spoken of very highly, but didn't realize the very strong UCB connection until I started it. 
 The opening has a tribute to [Evi Nemeth](https://en.wikipedia.org/wiki/Evi_Nemeth), who was a Computer Science professor at UCB.
@@ -72,7 +95,7 @@ This week I will move on to Chapters 5 (Group Management) and 6 (File Permission
 I'm not blocked, and I'm getting into a routine of knocking out a little at a time in 30-60 minutes increments.
 
 
-## Week 3 Update - January 27 - February 2, 2025
+## Week 3 Update :: January 27 - February 2, 2025
 
 This week I wrote my project proposal and officially decided to start working on the Linux Foundation System Administration course. I signed up and paid for the course, and started watching 
 and reading the introductory material. I learned about the basic differences between Linux distributions and setup a virtual machine in case there are specific differences between my personal 
@@ -84,7 +107,7 @@ from /bin to /run.
 Next week I will work my way through chapters on the User Environment and User Account Management. Splitting the time up in management chunks is very helpful for me rather than knocking 
 out 3 hours on a Saturday. As long as my schedule allows, I will continue to use this method.
 
-## Project Proposal - January 28, 2026
+## Project Proposal :: January 28, 2026
 
 I wish to build a base of skills in Linux System Administration. Using the Linux Foundation training tools, I plan to engage in weekly learning sessions that will ultimately lead to a 
 Linux Foundation Certified System Administrator (LFCS) cerftification after taking the exam. 
@@ -108,7 +131,7 @@ The course estimates 50-60 hours worth of learning material is available. This i
 end of the semester. I will try to cover 2 chapters each week, as there are 34 chapters in the course. As long as I spend 3-5 hours a week on this material, I will have a much greater understanding
 of the material at the end of the semester and should be close to completing the course and preparing for the certification exam. The course costs $299. 
 
-## Week 2 Update - January 20-26, 2025
+## Week 2 Update :: January 20-26, 2025
 
 Last week I spent time brainstorming about semester project ideas. As I've been slowly applying for jobs for the past year without success, I wanted to work on something for my resume that was
 concrete with a definitive line item, rather than just putting "C++" under "Languages" which can obviously be pretty dynamic as to someone's level. I've been interested in Linux/SysAdmin
