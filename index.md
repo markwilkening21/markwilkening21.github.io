@@ -25,6 +25,8 @@ My LinkedIn now has a new profile photo, I've added UCB to my education, and I'm
 I checked out the Google Career Certificates with the CU partnership. This seemed helpful, and I bookmarked it, as I am interested in completing the Cybersecurity certificate which seems similar
 to the Linux SysAdmin training I'm currently studying, and if CU can get it for free, all the better.
 
+I requested a license for the Quinncia AI resume builder, and am waiting to hear back.
+
 In general, the LinkedIn learning services, like most free content, is not thorough or very useful. A 3 minute video on "What is Software Development" is not going to help me much 3 years
 into a CS degree. I tried to enter more pointed skills (software development, C++, etc.), but then I got content like "Learn the basic syntax of C++".
 
