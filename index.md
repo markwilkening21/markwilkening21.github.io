@@ -10,6 +10,24 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Lifelong Learning Resources
+
+I started by poking around the UCB Career Services site. The first thing that caught my eye was the "Customized Skills Report". There have been a lot of rumors about 
+(poor) state of the job market in Tech right now, and I was curious what a job report would indicate. I filled out my information on the form, and hit 'send'.
+
+While I didn't utilize CU's Photobooth as I'm a remote student, it did encourage me to explore an updated headshot, as mine is definitely outdated. Professor Guinn
+also encouraged me to update my LinkedIn as it still only reflects by current job/industry. I had some friends use AI Headshot Generators for their Zoom profile, so I checked out BetterPic.io.
+I uploaded 6 photos from my phone where I was looking at the camera in decent lightning, took 2 selfies, chose an outfit ("Business/Navy") and a background ("studio"), paid $35,
+and 30 minutes later I had 20 headshots. I'm certainly not going to get into the ethics of AI headshots here, but I know that I wouldn't have hired a headshot photographer for this, seeing as
+they run hundreds of dollars, and this was only for a LinkedIn profile photo, not an actor's headshot. I think what I ended up with was a clear improvement and generally reflects what I look like now.
+My LinkedIn now has a new profile photo, I've added UCB to my education, and I'm working on adding additional software related skills to my profile. 
+
+I checked out the Google Career Certificates with the CU partnership. This seemed helpful, and I bookmarked it, as I am interested in completing the Cybersecurity certificate which seems similar
+to the Linux SysAdmin training I'm currently studying, and if CU can get it for free, all the better.
+
+In general, the LinkedIn learning services, like most free content, is not thorough or very useful. A 3 minute video on "What is Software Development" is not going to help me much 3 years
+into a CS degree. I tried to enter more pointed skills (software development, C++, etc.), but then I got content like "Learn the basic syntax of C++".
+
 ## Week 7 Update :: February 24 - February 31, 2025
 
 This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which are used on Red Hat, Fedora, and openSUSE systems. 
