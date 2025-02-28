@@ -12,11 +12,11 @@ title: Home
 
 ## Lifelong Learning Resources
 
-I started by poking around the UCB Career Services site. The first thing that caught my eye was the "Customized Skills Report". There have been a lot of rumors about 
+I started by poking around the UCB Career Services site. The first thing that caught my eye was the "Customized Skills Report". There have been a lot of rumors about the
 (poor) state of the job market in Tech right now, and I was curious what a job report would indicate. I filled out my information on the form, and hit 'send'.
 
 While I didn't utilize CU's Photobooth as I'm a remote student, it did encourage me to explore an updated headshot, as mine is definitely outdated. Professor Guinn
-also encouraged me to update my LinkedIn as it still only reflects by current job/industry. I had some friends use AI Headshot Generators for their Zoom profile, so I checked out BetterPic.io.
+also encouraged me to update my LinkedIn as it still only reflects my current job/industry. I had some friends use AI Headshot Generators for their Zoom profile, so I checked out BetterPic.io.
 I uploaded 6 photos from my phone where I was looking at the camera in decent lightning, took 2 selfies, chose an outfit ("Business/Navy") and a background ("studio"), paid $35,
 and 30 minutes later I had 20 headshots. I'm certainly not going to get into the ethics of AI headshots here, but I know that I wouldn't have hired a headshot photographer for this, seeing as
 they run hundreds of dollars, and this was only for a LinkedIn profile photo, not an actor's headshot. I think what I ended up with was a clear improvement and generally reflects what I look like now.
