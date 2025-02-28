@@ -28,6 +28,9 @@ to the Linux SysAdmin training I'm currently studying, and if CU can get it for 
 In general, the LinkedIn learning services, like most free content, is not thorough or very useful. A 3 minute video on "What is Software Development" is not going to help me much 3 years
 into a CS degree. I tried to enter more pointed skills (software development, C++, etc.), but then I got content like "Learn the basic syntax of C++".
 
+There are so many "skills" that it can be argued you "need" to succeed in the 2025 job market that it is overwhelming. I'm trying to keep pushing ahead with becoming more valuable with a few solid
+skills and rely on my 20 years of work experience for the rest.
+
 ## Week 7 Update :: February 24 - February 31, 2025
 
 This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which are used on Red Hat, Fedora, and openSUSE systems. 
