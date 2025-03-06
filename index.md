@@ -10,6 +10,24 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 8 Update ::  March 1, 2025 - March 8, 2025
+
+This week I started by completing a module on Git fundamentals. A lot of this was review and I've learned Git in 3308 and have used it for many classes here at UCB. I did learn about tags,
+which I wasn't previously familiar with. I know that git is very important for software engineers so the more I'm familiar with it the better. I took notes on some of the standard
+git commands and also learned a few I hadn't heard of before.
+
+Next were modules on Linux Processes and Process Monitoring. This included a variety of topics that were covered in CSPB2400, such as:
+
+- fork & exec
+- process state: running, zombie, waiting, stopped
+- background & foreground processes, using '&'
+- setting hard/soft open file limits with **ulimit** 
+- reading/changing a process' "niceness", or their resource intensity
+- schedling periodic tasks using **cron**
+- all the flags for ps
+- using top
+
+
 ## Lifelong Learning Resources
 
 I started by poking around the UCB Career Services site. The first thing that caught my eye was the "Customized Skills Report". There have been a lot of rumors about the
