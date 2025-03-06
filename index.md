@@ -23,7 +23,7 @@ Next were modules on Linux Processes and Process Monitoring. This included a var
 - background & foreground processes, using '&'
 - setting hard/soft open file limits with **ulimit** 
 - reading/changing a process' "niceness", or their resource intensity
-- schedling periodic tasks using **cron**
+- scheduling periodic tasks using **cron**
 - all the flags for ps
 - using top
 
