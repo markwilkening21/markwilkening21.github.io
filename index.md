@@ -27,6 +27,8 @@ Next were modules on Linux Processes and Process Monitoring. This included a var
 - all the flags for ps
 - using top
 
+I reviewed Chapter 4 in ULSAH as it covered Processes and was supplementary to the modules this week. No blockers.
+
 
 ## Lifelong Learning Resources
 
