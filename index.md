@@ -10,7 +10,7 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
-## Week 8 Update ::  March 1, 2025 - March 8, 2025
+## Week 8 Update ::  March 3, 2025 - March 9, 2025
 
 This week I started by completing a module on Git fundamentals. A lot of this was review and I've learned Git in 3308 and have used it for many classes here at UCB. I did learn about tags,
 which I wasn't previously familiar with. I know that git is very important for software engineers so the more I'm familiar with it the better. I took notes on some of the standard
@@ -53,7 +53,7 @@ into a CS degree. I tried to enter more pointed skills (software development, C+
 There are so many "skills" that it can be argued you "need" to succeed in the 2025 job market that it is overwhelming. I'm trying to keep pushing ahead with becoming more valuable with a few solid
 skills and rely on my 20 years of work experience for the rest.
 
-## Week 7 Update :: February 24 - February 31, 2025
+## Week 7 Update :: February 24 - March 2, 2025
 
 This week I continued with learning about package management, but dove more specifically into RPM, dnf, yum, and zypper which are used on Red Hat, Fedora, and openSUSE systems. 
 
