@@ -10,6 +10,18 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 9 Update ::  March 10, 2025 - March 16, 2025
+
+This week I completed a module on Memory Monitoring, Usage and Configuring Swap. Because I've been interested in computing most of my life, 
+I remember thinking there'd be a day when RAM and CPU would be so large and cheap that it would no longer be a prohibiting factor to any needed 
+computing. Yet here we are, with 4K video streaming and live audio recording between 2 studios in different parts of the world. 
+
+I learned about the tools *free, vmstat, and pmap*. This entails tuning the memory of a sub-system, and changing memory paramters to improve I/O performance. 
+
+I also learned about using swap which takes advantage of Linux's virtual memory system. 
+
+Next week I will complete modules on I/O Monitoring, Containers Overview, Linux Filesystems and The VFS.
+
 ## Week 8 Update ::  March 3, 2025 - March 9, 2025
 
 This week I started by completing a module on Git fundamentals. A lot of this was review and I've learned Git in 3308 and have used it for many classes here at UCB. I did learn about tags,
