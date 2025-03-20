@@ -10,6 +10,19 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 10 Update ::  March 17, 2025 - March 23, 2025
+
+I've heard about Containers for a long time and knew of their importance, generally. I realized that I thought they were more similar to
+virtual machines. This week, I studied them in depth, specifically learning Docker and docker-composer functionality. I watched 
+[this](https://www.youtube.com/watch?v=Ud7Npgi6x8E) video which was a good intro. 
+
+I also learned about I/O Monitoring, Scheduling, and Tuning using tools *iostat, and iotop*.
+
+Lastly I studied the Linux Filesystem, what a "journaling" filesystem is, and the specific layout of the VFS (Virtual Filesystem).
+
+Next week/the week after Spring Break, I will complete modules on Disk Partitioning, Filesystem Features, and The EXT4 Filesystem.
+
+
 ## Week 9 Update ::  March 10, 2025 - March 16, 2025
 
 This week I completed a module on Memory Monitoring, Usage and Configuring Swap. Because I've been interested in computing most of my life, 
