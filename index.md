@@ -10,6 +10,28 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 11 Update ::  March 31, 2025 - April 6, 2025
+
+I tried a little different approach this week in an effort to get a more hands on approach to these modules. After reading through the section on 
+Disk Partitioning, I prompted ChatGPT: 
+
+**Is there a simple exercise or challenge I could try to better under disk partitioning on a Linux System?**
+
+It responded with a Challenge Activity:
+
+**Challenge: Create and partition a virtual disk using a loopback device
+This lets you practice partitioning without touching your real disk. It's all done in a file.**
+
+This was so much better than just reading through the modules and participating in the end of module activities which I felt were many times 
+either too easy, or clearly more advanced than what I had just learned in the module. The activity had me create a virtual disk file, turn
+it into a loop device, partition the virtual disk, refresh the kernel's view of the partition, create a filesystem on the new partition, 
+mount it, and then use it (created some basic txt files on the disk). I got hung up on a few things, but went back and retried, checked
+my commands, and figured it out. 
+
+I continued this method with a few other topics from the modules this week on Filesystem Features and the EXT4 Filesystem.
+
+Next week I will dive into Logical Volume Management (LVM), Kernel Services and Configuration, and Kernel Modules.
+
 ## Week 10 Update ::  March 17, 2025 - March 23, 2025
 
 I've heard about Containers for a long time and knew of their importance, generally. I realized that I thought they were more similar to
