@@ -9,6 +9,13 @@ title: Home
     <h1 style="font-size: 3rem; font-weight: 300;">CSPB 3112 - Mark Wilkening</h1>
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
+## Week 12 Update ::  April 7, 2025 - April 14, 2025
+
+I completed modules this week on Devices and UDEV, Network Addresses, Network Devices and Configuration. I used a similar technique as last week where
+I prompted ChatGPT to give me a few exercises to help the concepts sink in and I've found this method to be helpful. I like doing tasks rather than just
+reading or watching videos to learn.
+
+Next week I'll move on to modules on LDAP, Firewalls, System INIT: SystemMD History and Customization, Backup and Recovery Methods.
 
 ## Week 11 Update ::  March 31, 2025 - April 6, 2025
 
