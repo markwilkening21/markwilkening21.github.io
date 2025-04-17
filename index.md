@@ -9,6 +9,27 @@ title: Home
     <h1 style="font-size: 3rem; font-weight: 300;">CSPB 3112 - Mark Wilkening</h1>
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
+
+## Week 13 Update ::  April 15, 2025 - April 22, 2025
+
+This week I completed modules on:
+
+**LDAP** Directory services via IP protocol. It provides database style functionality engineered to eb fast, computationally lightweight, and robust.
+I learned about LDAP Authentication, and completed a lab exercise of installing an LDAP server on a virtual machine.
+
+**Firewalls** One of the most ubiquitous terms in computing that I believe most non-tech people are aware of. "Is it the firewall?" they say in a 
+meeting when anything goes wrong.It was interesting to learn more about them. I knew some of the basics, but learned about Zones Management, Source
+Management, and Port Management.
+
+**System INIT/SysteMD History** Learned about the init program that is the first user level process or task run on the sytem and continues to run until
+the system is shut down. The 3 most common implementations of init include systemd, Upstart, and SysVinit, and now all major distributions have moved to
+systemd.
+
+**Backup and Recovery Methods** The basics of backup media (tape, CD, DVD, hard disk, etc) and the general importance of backuping up properly. I also learned
+about backing up incrementally with tar using compression methods.
+
+I'm almost done! Only 2 real modules left (Linux Security Modules and System Rescue).
+
 ## Week 12 Update ::  April 7, 2025 - April 14, 2025
 
 I completed modules this week on Devices and UDEV, Network Addresses, Network Devices and Configuration. I used a similar technique as last week where
