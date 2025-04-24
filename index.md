@@ -10,6 +10,18 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Week 14 Update ::  April 23, 2025 - April 30, 2025
+
+This week I learned about the variety of Linux Security Modules, or LSMs, that are available to enable good security controls on a system.
+The choices presented include SELinux, AppArmor, Smack, Tomoyo, and Yama. This [link](https://www.starlab.io/blog/a-brief-tour-of-linux-security-modules) 
+provides a good overview. I walked through enforcement modes and policies for SELinux, learned about restorecon and semanage, and learned a few
+AppArmor Utilities.
+
+I then moved onto to exploring what to do when a system fails (System Rescue). This included using rescue and recover media image, emergency boot media,
+using rescue media, using a rescue USB key, booting in emergency mode, and booting in single user mode.
+
+Next week I will take the Final Exam through LFS207 and write my Final report for this class. 
+
 ## Week 13 Update ::  April 15, 2025 - April 22, 2025
 
 This week I completed modules on:
