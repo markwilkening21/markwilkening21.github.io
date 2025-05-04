@@ -10,6 +10,28 @@ title: Home
     <p style="font-size: 1.25rem; color: #666;">Tracking my project</p>
 </div>
 
+## Final Project Report :: May 5, 2025
+
+I've been interested in Linux since I first learned about it in the early 2000s. Its open-source, non-commercial roots reminded me of the spirit of the early internet, which immediately drew me in. Over the years, I gradually began using Linux and building up my understanding. This semester, I finally had the opportunity to deepen that knowledge by completing the Linux System Administration Essentials course offered by The Linux Foundation. The course was self-paced and provided both foundational knowledge and hands-on experience with core Linux system administration tasks. I followed a 15-week schedule that aligned with the UCB semester, dedicating each week to a different module and spending additional time experimenting with the tools introduced. My goal was to gain a solid understanding of the structure of Linux filesystems and explore the possibilities offered by common industry tools. More specifically, I wanted to answer a key question: what does a system administrator actually do on the job?
+
+To supplement the LF207 course, I also read portions of The Unix and Linux System Administration Handbook, a classic reference I borrowed from my local library. I initially aimed to read one chapter per week alongside the LF modules, but quickly realized that pace was unsustainable. The chapters became increasingly dense and began to take up more time than I had budgeted for this project. Still, the early chapters provided valuable background and helped frame many of the core concepts introduced in the course.
+
+Like many students in the CSPB program, I’m working toward being employable by the time I graduate, ideally in a role that genuinely interests me. I’m not yet sure if that job will be in system administration specifically, but I do know the tools and practices covered in this course have broad relevance. The approach of diagnosing issues by gathering information, understanding the system, and working methodically toward a solution is appealing to me, and it's a mindset that applies well across many areas in tech.
+
+The course modules covered a wide range of material, and early on I felt confident in my ability to grasp and retain the new tools and concepts being introduced. I used VirtualBox to run instances of Ubuntu and openSUSE on my machine, experimenting with user management, file permissions, and the Linux filesystem. I was actively engaged and able to recall specific commands and procedures from previous weeks. However, as the semester progressed, the volume and complexity of the tools increased, and I found it more difficult to keep up and retain everything at the same pace.
+
+I also began to encounter some frustrations with the course structure, particularly the lab exercises at the end of each module. While these labs were designed to reinforce the material, they sometimes included tasks that hadn’t been covered in the readings. Although solutions were provided (since the labs weren’t graded), it was frustrating to be introduced to new tools only by reading the answer key rather than through the instructional content itself.
+
+In Week 11, I started using ChatGPT to generate custom exercises and challenges related to each week’s topic. This approach helped me stay engaged and gave me the opportunity to work through problems interactively, with feedback and hints when needed. I continued using this strategy through the end of the semester. I also supplemented my learning with topic specific YouTube videos, which was very helpful for certain topics like Docker which has a ton of content available.
+
+By completing the Chapter Quizzes, the Lab Exercises, and my own supplemental AI challenges each week, I felt very good about my understanding of the chapter topics.
+
+I absolutely met my goal of building a solid foundation in Linux system administration. While I may not be able to recall every command off the top of my head a year from now, like how to list currently loaded kernel modules or set a specific file's hard limit, I now understand what those tasks involve and why they matter in a system administration context. At the beginning of the semester, I hoped this course might prepare me to pursue a certification that could strengthen my resume. I now think I’d need another 3-4 weeks of focused review before feeling ready to take a certification exam, but it’s a goal I’m seriously considering.
+
+Looking back, if I were to repeat this project, I might choose to explore fewer modules in greater depth rather than covering all of them more broadly. I knew 15 weeks would be tight, and I can now see both the strengths and limitations of that pacing.
+
+Overall, this course has deepened my interest in Linux, especially at the system level. I’m excited to keep learning and would love the opportunity to intern at a company with a large scale network, where I could see how these tools are applied in real world environments.
+
 ## Week 14 Update ::  April 23, 2025 - April 30, 2025
 
 This week I learned about the variety of Linux Security Modules, or LSMs, that are available to enable good security controls on a system.
